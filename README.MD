@@ -27,8 +27,8 @@ pokekai adalah sebuah web galery tentang infromasi pokemon berbentuk poke card, 
 
 ## format📚
 
--tugas:fetch api
--mapel:pwpb
--kelas:XI RPL 1
--guru:BP haris
+- tugas:fetch api
+- mapel:pwpb
+- kelas:XI RPL 1
+- guru:BP haris
 
