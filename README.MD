@@ -19,6 +19,7 @@ pokekai adalah sebuah web galery tentang infromasi pokemon berbentuk poke card, 
 ## Tech Stack🛠️
 
 **Client:** bootstrap,vanilla js
+
 **libraries:** Sweetalert2,aos
 
 **Server:** JSON API
